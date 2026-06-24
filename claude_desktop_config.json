@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "github-tools-mcp": {
+      "command": "node",
+      "args": ["/caminho/para/github-tools-mcp/dist/server.js"]
+    }
+  }
+}
